@@ -4,3 +4,5 @@ testing if dark mode works well
 ![Verda Logo](./logo-light.svg#gh-light-mode-only)
 
 ![Verda Logo](./verda_logo.svg)
+
+![Verda Logo](./verda_logo_light_dark.svg)
